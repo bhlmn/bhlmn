@@ -1,8 +1,8 @@
-### Hi there, I'm Bryan! 👋
+## Hi there, I'm Bryan! 👋
 
 I'm a meteorologist turned data scientist based in [Portland, OR](https://www.portland.gov). Originally a weather nerd, my passion now flows for Python, cloud data engineering, machine learning, and data storytelling. When not behind the screen I'm playing board games with my awesome fam, walking the dog, on a bike, hiking, doing pull-ups, listening to [post metal](https://en.wikipedia.org/wiki/Post-metal), reading, or experimenting with plant-based cooking.
 
-#### Now
+### Now
 
 What I'm doing now.
 
