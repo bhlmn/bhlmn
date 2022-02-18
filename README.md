@@ -1,8 +1,8 @@
-## Hi there! 👋
+### Hi there! 👋
 
 I'm a data scientist based in [Portland, OR](https://www.portland.gov).
 
-### Now
+**What I'm up to**
 
 * business intelligence / analytics [@HealthSparq](https://healthsparq.com)
 * co-organizer for [@PDXPythonPyrates](https://github.com/PDXPythonPirates)
@@ -10,7 +10,7 @@ I'm a data scientist based in [Portland, OR](https://www.portland.gov).
 * working on 20 pull ups in a row (I'm at 14)
 * raising a german shepherd!
 
-### What I'm good at
+**What I'm good at**
 
 * python/pandas (7 years)
 * machine learning – scikit-learn/tensorflow (6 years)
