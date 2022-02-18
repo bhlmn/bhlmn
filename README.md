@@ -2,7 +2,7 @@
 
 I'm a data scientist based in [Portland, OR](https://www.portland.gov).
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![[LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhlmn/)
 
 **What I'm up to**
 
