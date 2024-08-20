@@ -2,8 +2,6 @@
 
 I'm a data scientist and architect based in Portland, OR.
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhlmn)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhlmn/)
-
 **what I'm up to**
 
 * ai architecture [@Insight](https://www.insight.com/en_US/home.html)
